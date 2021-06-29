@@ -1,0 +1,20 @@
+{
+  "symbol": "PKT",
+  "address": "0x30a1b8BCE02Aa805F8FD5c4C7093D1E94C0108f1",
+  "overview":{
+        "en": "PKT is Pokenmon's token, which can be used to purchase NFT card packs and Pokemon NFT card transactions."
+  },
+  "email": "pokemon.nft.2021@gmail.com",
+  "website": "https://www.pokemon.art/",
+  "whitepaper": "https://www.pokemon.art/whitepaper.pdf",
+  "state": "NORMAL",
+  "published_on": "2021-06-24",
+  "initial_price":{
+        "USD":"0.1 USD"
+  },
+  "links": {
+    "twitter": "https://twitter.com/Pokemon",
+    "telegram": "https://t.me/joinchat/6yY39XPeaQAwYzQ1",
+    "facebook": "https://www.facebook.com/pokemon"
+  }
+}
